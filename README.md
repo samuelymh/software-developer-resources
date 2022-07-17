@@ -6,3 +6,4 @@
 3. [System Design - has Anki deck](https://github.com/donnemartin/system-design-primer)
 4. [Project based learning - when you're extremely bored](https://github.com/practical-tutorials/project-based-learning#javascript)
 5. [Roadmaps](https://github.com/kamranahmedse/developer-roadmap)
+6. [Git CLI command explanations](https://explainshell.com/)
