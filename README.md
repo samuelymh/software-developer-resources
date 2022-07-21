@@ -7,3 +7,4 @@
 4. [Project based learning - when you're extremely bored](https://github.com/practical-tutorials/project-based-learning#javascript)
 5. [Roadmaps](https://github.com/kamranahmedse/developer-roadmap)
 6. [Git CLI command explanations](https://explainshell.com/)
+7. [How to learn software architecture](https://www.linkedin.com/posts/milanmilanovic_softwareengineering-tech-architecture-activity-6954425299748954112-cm1Q?utm_source=linkedin_share&utm_medium=member_desktop_web)
