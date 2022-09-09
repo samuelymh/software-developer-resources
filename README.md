@@ -9,3 +9,4 @@
 6. [Git CLI command explanations](https://explainshell.com/)
 7. [How to learn software architecture](https://www.linkedin.com/posts/milanmilanovic_softwareengineering-tech-architecture-activity-6954425299748954112-cm1Q?utm_source=linkedin_share&utm_medium=member_desktop_web)
 8. [Git explorer](https://gitexplorer.com/)
+9. [Regex](https://regex101.com/)
